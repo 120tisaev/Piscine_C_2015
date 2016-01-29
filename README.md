@@ -1,3 +1,3 @@
 # Piscine_C_2015
-Exercices de piscines  
-Certaines fonctions nécessitent d'être recodé  
+Exercices de piscine  
+Certaines fonctions nécessitent d'être recodés  
